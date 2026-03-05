@@ -408,7 +408,7 @@ Book Free Consultation
 
 <p>Upwork | LinkedIn | Fiverr</p>
 
-<button onclick="window.location.href='mailto:marbellamorgan919@gmail.com'">
+<button onclick="window.location.href='mailto:marbellamorgan919@gmail.com?subject=New Project Inquiry&body=Hi Bella,%0A%0AI would like to discuss a project with you. Here are the details:%0A'">
 Start a Project
 </button>
 </section>
