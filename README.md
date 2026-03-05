@@ -248,7 +248,7 @@ footer {
         <button type="submit">Request Free Audit</button>
     </form>
     <br><br>
-    <button onclick="window.open('https://calendly.com/marbellamorgan919/consultation')">
+    <button onclick="window.open('https://calendly.com/marbellamorgan919')">
         Book Free Consultation
     </button>
 </section>
