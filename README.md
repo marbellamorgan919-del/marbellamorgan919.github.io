@@ -58,7 +58,7 @@ flex-wrap:wrap;
 nav a{
 color:white;
 padding:15px 25px;
-decoration:none;
+text-decoration:none;
 }
 
 nav a:hover{
@@ -93,7 +93,7 @@ box-shadow:0 5px 15px rgba(0,0,0,0.08);
 background:#eef2f7;
 }
 
-dot audit{
+.audit{
 background:#eef2f7;
 text-align:center;
 }
